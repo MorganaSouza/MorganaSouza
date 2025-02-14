@@ -28,7 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" />
                            
           
-<img src="(https://tenor.com/pt-BR/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919)](https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919)" alt="Gatinho do programa">
+<img src="[caminho/para/o/seu/gif.gif](https://www.google.com/imgres?q=gif%20gato%20computador&imgurl=https%3A%2F%2Fmedia.tenor.com%2FbCfpwMjfAi0AAAAM%2Fcat-typing.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fgato-computadora-gifs&docid=C8ZIa1hOxqPcQM&tbnid=IDA-aq9AEsOi2M&vet=12ahUKEwjgx8CrqsOLAxXRIrkGHXrDBfYQM3oECF0QAA..i&w=220&h=124&hcb=2&ved=2ahUKEwjgx8CrqsOLAxXRIrkGHXrDBfYQM3oECF0QAA)" alt="Descrição do GIF">
+
     
           
 

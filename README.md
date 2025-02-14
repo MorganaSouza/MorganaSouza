@@ -26,25 +26,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" />
+                           
           
-          
-<div>
-<a href="https://github.com/[MorganaSouza](https://github.com/MorganaSouza)">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?[MorganaSouza](https://github.com/MorganaSouza)&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?[MorganaSouza](https://github.com/MorganaSouza)&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>        
-            
-          
-          
-          
-          
-          
-          
-
-          
--                   
-          
-          
+<div class="tenor-gif-embed" data-postid="21481919" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>        
           
 
 </div>

@@ -28,7 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" />
                            
           
-<div class="tenor-gif-embed" data-postid="21481919" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>        
+<img src="[caminho/para/o/seu/gif.gif](https://tenor.com/pt-BR/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919)" alt="Gatinho do programa">
+    
           
 
 </div>

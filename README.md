@@ -1,7 +1,10 @@
 <h1>OLÁ DEVS, SEJAM BEM-VINDOS!</h1>
 
-<h2>�� ABOUT ME</h2>
-<p>Estudante da área de Análise e Desenvolvimento de Sistemas, na faculdade Senac-PE</p>
+<h2>👋 About Me</h2>
+<p>Olá! Sou Morgana Souza, estudante de Análise e Desenvolvimento de Sistemas no Senac-PE. Apaixonada por tecnologia, programação e inovação, estou sempre em busca de aprender novas linguagens e ferramentas para construir soluções que fazem a diferença.</p>
+<p>Tenho interesse especial em desenvolvimento web, automação e projetos que envolvam dados e inteligência artificial. Estou aberta a colaborar em projetos desafiadores e a crescer na área de tecnologia.</p>
+<p>Vamos conectar e construir algo incrível juntos!</p>
+
 
 ## �� Tecnologias
 <div>
